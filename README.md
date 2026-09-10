@@ -36,10 +36,6 @@ I'm a web developer who enjoys turning ideas into working products — from clea
 
 ![](https://raw.githubusercontent.com/fajarlm/fajarlm/output/github-contribution-grid-snake.svg)
 
-> Snake ini butuh satu kali setup lewat GitHub Actions di repo profil kamu — lihat file `snake.yml` yang saya sertakan + panduan setupnya.
-
----
-
 [![](https://visitcount.itsvg.in/api?id=fajarlm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
