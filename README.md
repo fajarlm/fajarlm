@@ -1,14 +1,5 @@
 # 💫 About Me
 
-I'm a web developer who enjoys turning ideas into working products — from clean UI to solid backend logic.
-
-- 🔭 Currently working on **psb-online-frontend**, a Vue 3 + Quasar admission-system dashboard
-- 🎯 Focus area: **Frontend development** with a growing interest in mobile apps
-- 👯 Looking to collaborate on **open-source web/mobile tools**
-- 🤝 Looking for help with **Flutter best practices** as I build out my mobile portfolio
-- 🌱 Currently learning **Flutter**
-- 💬 Ask me about **Vue, JavaScript, PHP, or frontend architecture**
-- ⚡ Fun fact: I like refactoring messy code almost as much as writing new features
 
 ## 🌐 Socials
 
