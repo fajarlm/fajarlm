@@ -1,5 +1,14 @@
 # 💫 About Me
 
+I'm a web developer who enjoys building things from ideas into working web applications. I like exploring different parts of development, from frontend and backend to APIs and databases, while continuously learning along the way.
+
+🔭 Currently working on web development projects
+🎯 Focused on building and exploring different areas of web development
+👯 Open to collaborating on web projects, tools, and open-source projects
+🤝 Always open to sharing knowledge and learning from other developers
+🌱 Currently improving my skills in JavaScript and modern web development
+💬 Ask me about JavaScript, PHP, Laravel, Vue, React, APIs, or databases
+⚡ Fun fact: When I have nothing to do, I usually end up coding anyway.
 
 ## 🌐 Socials
 
